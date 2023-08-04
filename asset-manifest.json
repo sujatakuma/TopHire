@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TopHire/static/css/main.493bd777.css",
+    "main.js": "/TopHire/static/js/main.a4d16f5f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TopHire/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TopHire/index.html",
+    "main.493bd777.css.map": "/TopHire/static/css/main.493bd777.css.map",
+    "main.a4d16f5f.js.map": "/TopHire/static/js/main.a4d16f5f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TopHire/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.493bd777.css",
+    "static/js/main.a4d16f5f.js"
+  ]
+}
